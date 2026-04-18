@@ -1,0 +1,153 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Testing
+.pytest_cache/
+.tox/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Uploads
+uploads/
+*_uploads/
+
+# Cache
+.cache/
+.parquet_cache/
+transformers_cache/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+
+# Redis dump
+dump.rdb
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Project specific
+*.zip
+*.gz
+*.tar
+*.rar
+
+# Credentials
+*.pem
+*.key
+*.crt
+ssh_keys/
+
+# Windows
+NTUSER.*
+ntuser.dat.LOG*
+ntuser.ini
+AppData/
+Local Settings/
+My Documents/
+Recent/
+SendTo/
+Start Menu/
+3D Objects/
+Contacts/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+Documents/
+Desktop/
+Downloads/
+
+# VirtualBox
+.Vagrant/
+*.vbox*
+
+# Android
+.android/
+.gradle/
+
+# Java
+.jdk/
+.jdks/
+
+# IDE specific
+.idlerc/
+.pydev_vscode/
+.pylint.d/
+
+# Other configs
+.claude.json
+.claude/
+.gemini/
+.n8n/
+.ollama/
+.streamlit/
+.idlerc/
+.keras/
+.dotnet/
+.cache/
+.config/

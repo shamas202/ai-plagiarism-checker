@@ -1,0 +1,12 @@
+"""NLP package for AI Engine."""
+from src.nlp.extractor import extract_text_from_file
+from src.nlp.chunking import semantic_chunking
+from src.nlp.embeddings import generate_embeddings
+from src.nlp.stylometry import analyze_stylometry
+
+__all__ = [
+    "extract_text_from_file",
+    "semantic_chunking",
+    "generate_embeddings",
+    "analyze_stylometry",
+]

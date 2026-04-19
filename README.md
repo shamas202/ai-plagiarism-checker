@@ -26,6 +26,7 @@ ai-plagiarism-checker/
 ├── backend/           # Node.js API Gateway (Render/Railway)
 ├── ai-engine/         # Python FastAPI + Celery (Render/Railway)
 ├── .env.example       # Root environment template
+├── DEPLOYMENT.md      # Complete deployment guide
 └── README.md
 ```
 

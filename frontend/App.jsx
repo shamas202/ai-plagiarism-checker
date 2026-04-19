@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
 import Dashboard from './pages/Dashboard'
-import './styles/globals.css'
 
 export default function App() {
   return (
@@ -18,7 +17,6 @@ export default function App() {
         }}
       />
       <Routes>
-        {/* Add a /login route when auth is ready */}
         <Route path="/" element={<Navigate to="/dashboard" replace />} />
         <Route path="/dashboard/*" element={<Dashboard />} />
       </Routes>

@@ -1,4 +1,4 @@
-# Deployment Guide - Multi-Tenant Plagiarism Checker
+## Deployment Guide - Multi-Tenant Plagiarism Checker
 
 Complete step-by-step instructions for GitHub, Vercel (Frontend), and Render/Railway (Backend + AI Engine).
 

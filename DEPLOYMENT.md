@@ -4,7 +4,7 @@ Complete step-by-step instructions for GitHub, Vercel (Frontend), and Render/Rai
 
 ---
 
-## Prerequisites:
+## Prerequisites::
 
 - GitHub account
 - Vercel account (free tier works)

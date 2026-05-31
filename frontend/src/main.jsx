@@ -10,3 +10,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 Refinement 33: Adding descriptive comments for better maintainability
 Refinement 89: Improving code documentation
+Refinement 127: Updating documentation for future reference

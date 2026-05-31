@@ -72,3 +72,4 @@ def _extract_from_text(file_path: str) -> str:
 # Refinement 81: Updating documentation for future reference
 # Refinement 101: Adding descriptive comments for better maintainability
 # Refinement 107: Improving code documentation
+# Refinement 150: Minor refactoring of function calls

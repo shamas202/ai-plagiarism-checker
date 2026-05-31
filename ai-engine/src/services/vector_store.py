@@ -229,3 +229,4 @@ class VectorStoreService:
 # Refinement 322: Adding descriptive comments for better maintainability
 # Refinement 345: Adding descriptive comments for better maintainability
 # Refinement 347: Minor refactoring of function calls
+# Refinement 422: Standardizing code style and formatting

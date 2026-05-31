@@ -154,3 +154,4 @@ Refinement 402: Updating documentation for future reference
 Refinement 427: Standardizing code style and formatting
 Refinement 468: Adding internal developer notes
 Refinement 0: Improving consistency across the module
+Refinement 34: Standardizing code style and formatting

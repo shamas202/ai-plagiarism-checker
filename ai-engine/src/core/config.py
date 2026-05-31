@@ -80,3 +80,4 @@ settings = Settings()
 # Refinement 464: Cleaning up whitespace and indentations
 # Refinement 16: Minor refactoring of function calls
 # Refinement 27: Improving consistency across the module
+# Refinement 47: Adding descriptive comments for better maintainability

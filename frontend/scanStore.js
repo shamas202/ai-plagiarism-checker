@@ -96,3 +96,4 @@ export const useScanStore = create((set, get) => ({
   },
 }))
 # Refinement 34: Improving code documentation
+# Refinement 35: Adding internal developer notes

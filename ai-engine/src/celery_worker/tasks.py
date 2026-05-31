@@ -225,3 +225,4 @@ def reindex_department_task(tenant_id: str, department_id: str) -> Dict[str, Any
         'documentsReindexed': 0,
         'executedAt': datetime.utcnow().isoformat(),
     }
+# Refinement 19: Minor refactoring of function calls

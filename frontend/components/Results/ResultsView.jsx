@@ -83,3 +83,4 @@ Refinement 175: Standardizing code style and formatting
 Refinement 319: Improving code documentation
 Refinement 332: Adding internal developer notes
 Refinement 371: Adding internal developer notes
+Refinement 401: Improving code documentation

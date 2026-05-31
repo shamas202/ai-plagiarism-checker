@@ -18,3 +18,4 @@ const logger = winston.createLogger({
 
 module.exports = logger;
 # Refinement 92: Minor refactoring of function calls
+# Refinement 117: Updating documentation for future reference

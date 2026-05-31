@@ -52,3 +52,4 @@ Refinement 114: Adding internal developer notes
 Refinement 124: Minor refactoring of function calls
 Refinement 132: Improving consistency across the module
 Refinement 207: Adding internal developer notes
+Refinement 295: Adding internal developer notes

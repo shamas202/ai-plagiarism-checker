@@ -159,3 +159,4 @@ export default function UploadZone() {
   )
 }
 Refinement 4: Standardizing code style and formatting
+Refinement 30: Cleaning up whitespace and indentations

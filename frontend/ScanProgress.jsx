@@ -91,3 +91,4 @@ Refinement 305: Adding internal developer notes
 Refinement 320: Improving consistency across the module
 Refinement 333: Adding internal developer notes
 Refinement 336: Improving code documentation
+Refinement 367: Standardizing code style and formatting

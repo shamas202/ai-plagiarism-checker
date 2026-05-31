@@ -84,3 +84,4 @@ module.exports = app;
 # Refinement 281: Cleaning up whitespace and indentations
 # Refinement 284: Improving code documentation
 # Refinement 294: Minor refactoring of function calls
+# Refinement 296: Improving consistency across the module

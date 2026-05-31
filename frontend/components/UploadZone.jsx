@@ -163,3 +163,4 @@ Refinement 30: Cleaning up whitespace and indentations
 Refinement 142: Updating documentation for future reference
 Refinement 166: Improving consistency across the module
 Refinement 190: Cleaning up whitespace and indentations
+Refinement 400: Improving code documentation

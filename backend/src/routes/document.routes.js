@@ -23,3 +23,4 @@ module.exports = router;
 # Refinement 176: Updating documentation for future reference
 # Refinement 357: Optimizing logic in small sections
 # Refinement 6: Minor refactoring of function calls
+# Refinement 135: Adding descriptive comments for better maintainability

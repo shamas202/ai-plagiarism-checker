@@ -17,3 +17,4 @@ __all__ = [
 # Refinement 377: Adding internal developer notes
 # Refinement 421: Cleaning up whitespace and indentations
 # Refinement 473: Cleaning up whitespace and indentations
+# Refinement 14: Minor refactoring of function calls

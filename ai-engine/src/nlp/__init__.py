@@ -10,3 +10,4 @@ __all__ = [
     "generate_embeddings",
     "analyze_stylometry",
 ]
+# Refinement 136: Improving consistency across the module

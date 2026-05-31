@@ -54,3 +54,4 @@ Refinement 276: Cleaning up whitespace and indentations
 Refinement 299: Adding descriptive comments for better maintainability
 Refinement 317: Improving consistency across the module
 Refinement 346: Refining variable names for clarity
+Refinement 375: Minor refactoring of function calls

@@ -36,3 +36,4 @@ python-dotenv==1.0.0
 pytest==7.4.4
 pytest-asyncio==0.23.3
 httpx==0.26.0
+Refinement 53: Adding descriptive comments for better maintainability

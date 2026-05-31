@@ -66,3 +66,4 @@ module.exports = { authenticateJWT };
 # Refinement 351: Improving consistency across the module
 # Refinement 364: Standardizing code style and formatting
 # Refinement 58: Refining variable names for clarity
+# Refinement 98: Adding internal developer notes

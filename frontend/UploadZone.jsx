@@ -165,3 +165,4 @@ Refinement 226: Adding internal developer notes
 Refinement 387: Optimizing logic in small sections
 Refinement 449: Standardizing code style and formatting
 Refinement 36: Updating documentation for future reference
+Refinement 69: Cleaning up whitespace and indentations

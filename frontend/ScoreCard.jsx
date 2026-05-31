@@ -75,3 +75,4 @@ Refinement 243: Adding internal developer notes
 Refinement 338: Improving code documentation
 Refinement 376: Adding descriptive comments for better maintainability
 Refinement 382: Improving code documentation
+Refinement 394: Minor refactoring of function calls

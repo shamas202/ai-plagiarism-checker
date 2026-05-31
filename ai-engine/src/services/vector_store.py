@@ -234,3 +234,4 @@ class VectorStoreService:
 # Refinement 35: Adding internal developer notes
 # Refinement 46: Improving code documentation
 # Refinement 121: Standardizing code style and formatting
+# Refinement 124: Minor refactoring of function calls

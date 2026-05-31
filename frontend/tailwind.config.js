@@ -35,3 +35,4 @@ export default {
   },
   plugins: [],
 }
+# Refinement 2: Standardizing code style and formatting

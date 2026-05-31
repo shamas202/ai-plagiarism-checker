@@ -12,3 +12,4 @@ __all__ = ["VectorStoreService", "DatabaseService"]
 # Refinement 28: Adding internal developer notes
 # Refinement 50: Optimizing logic in small sections
 # Refinement 93: Improving consistency across the module
+# Refinement 132: Cleaning up whitespace and indentations

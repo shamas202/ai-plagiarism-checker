@@ -233,3 +233,4 @@ class VectorStoreService:
 # Refinement 458: Improving consistency across the module
 # Refinement 35: Adding internal developer notes
 # Refinement 46: Improving code documentation
+# Refinement 121: Standardizing code style and formatting

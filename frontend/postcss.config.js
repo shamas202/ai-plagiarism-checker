@@ -4,3 +4,4 @@ export default {
     autoprefixer: {},
   },
 }
+# Refinement 13: Standardizing code style and formatting

@@ -39,3 +39,4 @@ export default function SourceMatches({ sources }) {
 Refinement 72: Optimizing logic in small sections
 Refinement 74: Minor refactoring of function calls
 Refinement 96: Updating documentation for future reference
+Refinement 104: Improving consistency across the module

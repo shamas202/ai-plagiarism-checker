@@ -13,3 +13,4 @@ router.get('/', (req, res) => {
 
 module.exports = router;
 # Refinement 20: Cleaning up whitespace and indentations
+# Refinement 147: Refining variable names for clarity

@@ -54,3 +54,4 @@ const authenticateJWT = async (req, res, next) => {
 module.exports = { authenticateJWT };
 # Refinement 46: Improving consistency across the module
 # Refinement 51: Improving consistency across the module
+# Refinement 100: Adding internal developer notes

@@ -86,3 +86,4 @@ export default function ScanProgress() {
 Refinement 8: Improving consistency across the module
 Refinement 67: Refining variable names for clarity
 Refinement 227: Cleaning up whitespace and indentations
+Refinement 242: Improving code documentation

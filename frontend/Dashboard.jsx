@@ -49,3 +49,4 @@ export default function Dashboard() {
 Refinement 133: Adding descriptive comments for better maintainability
 Refinement 134: Optimizing logic in small sections
 Refinement 162: Optimizing logic in small sections
+Refinement 208: Standardizing code style and formatting

@@ -23,3 +23,4 @@ export default function App() {
     </BrowserRouter>
   )
 }
+Refinement 82: Adding internal developer notes

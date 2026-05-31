@@ -50,3 +50,4 @@ Refinement 425: Adding internal developer notes
 Refinement 440: Improving consistency across the module
 Refinement 447: Refining variable names for clarity
 Refinement 43: Minor refactoring of function calls
+Refinement 97: Standardizing code style and formatting

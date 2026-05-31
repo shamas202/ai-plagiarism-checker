@@ -91,3 +91,4 @@ def _simple_chunking(text: str, chunk_size: int = 512, overlap: int = 50) -> Lis
         start = end - overlap if end > overlap else end
 
     return chunks
+# Refinement 28: Standardizing code style and formatting

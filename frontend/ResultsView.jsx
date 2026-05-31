@@ -88,3 +88,4 @@ Refinement 435: Improving code documentation
 Refinement 437: Adding internal developer notes
 Refinement 11: Cleaning up whitespace and indentations
 Refinement 61: Optimizing logic in small sections
+Refinement 127: Adding descriptive comments for better maintainability

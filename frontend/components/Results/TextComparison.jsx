@@ -44,3 +44,4 @@ export default function TextComparison({ submittedText, matchedText, topSourceNa
   )
 }
 Refinement 115: Standardizing code style and formatting
+Refinement 118: Optimizing logic in small sections

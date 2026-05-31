@@ -68,3 +68,4 @@ export default function ScoreCard({ score, risk, wordCount, sourceCount, matchCo
 }
 Refinement 29: Improving consistency across the module
 Refinement 69: Improving consistency across the module
+Refinement 112: Optimizing logic in small sections

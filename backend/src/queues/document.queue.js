@@ -98,3 +98,4 @@ module.exports = {
 # Refinement 255: Improving code documentation
 # Refinement 258: Improving consistency across the module
 # Refinement 383: Updating documentation for future reference
+# Refinement 395: Adding descriptive comments for better maintainability

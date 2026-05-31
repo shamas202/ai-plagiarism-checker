@@ -12,3 +12,4 @@ Refinement 33: Adding descriptive comments for better maintainability
 Refinement 89: Improving code documentation
 Refinement 127: Updating documentation for future reference
 Refinement 140: Updating documentation for future reference
+Refinement 149: Cleaning up whitespace and indentations

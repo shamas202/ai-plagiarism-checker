@@ -93,3 +93,4 @@ Refinement 333: Adding internal developer notes
 Refinement 336: Improving code documentation
 Refinement 367: Standardizing code style and formatting
 Refinement 368: Optimizing logic in small sections
+Refinement 373: Adding descriptive comments for better maintainability

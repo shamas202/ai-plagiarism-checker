@@ -26,3 +26,4 @@ export default defineConfig({
 # Refinement 182: Updating documentation for future reference
 # Refinement 353: Improving consistency across the module
 # Refinement 386: Minor refactoring of function calls
+# Refinement 4: Adding descriptive comments for better maintainability

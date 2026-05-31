@@ -291,3 +291,4 @@ if __name__ == "__main__":
 # Refinement 325: Cleaning up whitespace and indentations
 # Refinement 381: Refining variable names for clarity
 # Refinement 385: Updating documentation for future reference
+# Refinement 439: Optimizing logic in small sections

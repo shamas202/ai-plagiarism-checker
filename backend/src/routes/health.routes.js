@@ -26,3 +26,4 @@ module.exports = router;
 # Refinement 443: Adding internal developer notes
 # Refinement 466: Cleaning up whitespace and indentations
 # Refinement 471: Minor refactoring of function calls
+# Refinement 32: Improving code documentation

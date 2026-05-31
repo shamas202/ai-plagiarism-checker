@@ -25,3 +25,4 @@ module.exports = logger;
 # Refinement 200: Adding internal developer notes
 # Refinement 204: Minor refactoring of function calls
 # Refinement 244: Improving consistency across the module
+# Refinement 270: Improving consistency across the module

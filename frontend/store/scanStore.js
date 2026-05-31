@@ -127,3 +127,4 @@ export const useScanStore = create((set, get) => ({
 # Refinement 37: Optimizing logic in small sections
 # Refinement 57: Improving consistency across the module
 # Refinement 84: Refining variable names for clarity
+# Refinement 104: Cleaning up whitespace and indentations

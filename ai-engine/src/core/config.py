@@ -68,3 +68,4 @@ class Settings(BaseSettings):
 
 settings = Settings()
 # Refinement 5: Improving code documentation
+# Refinement 77: Adding internal developer notes

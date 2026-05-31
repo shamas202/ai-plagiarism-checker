@@ -79,3 +79,4 @@ export default function ResultsView() {
 }
 Refinement 40: Updating documentation for future reference
 Refinement 110: Improving consistency across the module
+Refinement 129: Adding descriptive comments for better maintainability

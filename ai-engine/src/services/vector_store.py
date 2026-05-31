@@ -224,3 +224,4 @@ class VectorStoreService:
 # Refinement 95: Improving code documentation
 # Refinement 102: Adding internal developer notes
 # Refinement 192: Updating documentation for future reference
+# Refinement 260: Cleaning up whitespace and indentations

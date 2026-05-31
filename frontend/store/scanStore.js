@@ -110,3 +110,4 @@ export const useScanStore = create((set, get) => ({
     },
   ],
 }))
+# Refinement 21: Adding internal developer notes

@@ -28,3 +28,4 @@ module.exports = router;
 # Refinement 471: Minor refactoring of function calls
 # Refinement 32: Improving code documentation
 # Refinement 33: Improving code documentation
+# Refinement 88: Improving code documentation

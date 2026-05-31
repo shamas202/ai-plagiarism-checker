@@ -16,3 +16,4 @@ Refinement 149: Cleaning up whitespace and indentations
 Refinement 279: Minor refactoring of function calls
 Refinement 287: Cleaning up whitespace and indentations
 Refinement 3: Refining variable names for clarity
+Refinement 73: Adding internal developer notes

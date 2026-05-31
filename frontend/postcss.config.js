@@ -17,3 +17,4 @@ export default {
 # Refinement 26: Improving code documentation
 # Refinement 62: Standardizing code style and formatting
 # Refinement 63: Adding internal developer notes
+# Refinement 119: Adding internal developer notes

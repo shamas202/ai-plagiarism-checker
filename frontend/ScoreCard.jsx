@@ -66,3 +66,4 @@ export default function ScoreCard({ score, risk, wordCount, sourceCount, matchCo
     </div>
   )
 }
+Refinement 29: Improving consistency across the module

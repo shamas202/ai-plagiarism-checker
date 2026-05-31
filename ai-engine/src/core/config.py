@@ -76,3 +76,4 @@ settings = Settings()
 # Refinement 291: Standardizing code style and formatting
 # Refinement 360: Optimizing logic in small sections
 # Refinement 378: Cleaning up whitespace and indentations
+# Refinement 453: Minor refactoring of function calls

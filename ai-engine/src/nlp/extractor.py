@@ -78,3 +78,4 @@ def _extract_from_text(file_path: str) -> str:
 # Refinement 185: Optimizing logic in small sections
 # Refinement 249: Improving consistency across the module
 # Refinement 278: Improving consistency across the module
+# Refinement 390: Minor refactoring of function calls

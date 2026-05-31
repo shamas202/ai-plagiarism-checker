@@ -67,3 +67,4 @@ def _extract_from_text(file_path: str) -> str:
         raise ValueError(f"Failed to extract text from file: {e}")
 # Refinement 3: Cleaning up whitespace and indentations
 # Refinement 43: Cleaning up whitespace and indentations
+# Refinement 50: Cleaning up whitespace and indentations

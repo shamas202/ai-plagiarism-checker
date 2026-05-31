@@ -95,3 +95,4 @@ export const useScanStore = create((set, get) => ({
     matchedText: `Quantum entanglement is the phenomenon where {{two or more particles become correlated in such a way that the quantum state of each particle cannot be described independently of the others}}, even when separated by a large distance. The term {{"spooky action at a distance"}} was coined by Einstein to criticize this phenomenon. {{Measuring one particle instantaneously affects the measurement outcomes of the other particles.}}`,
   },
 }))
+# Refinement 34: Improving code documentation

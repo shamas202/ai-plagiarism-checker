@@ -34,3 +34,4 @@ celery_app.conf.update(
 # Refinement 254: Standardizing code style and formatting
 # Refinement 352: Updating documentation for future reference
 # Refinement 361: Adding internal developer notes
+# Refinement 404: Standardizing code style and formatting

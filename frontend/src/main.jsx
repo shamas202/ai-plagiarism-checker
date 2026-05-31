@@ -13,3 +13,4 @@ Refinement 89: Improving code documentation
 Refinement 127: Updating documentation for future reference
 Refinement 140: Updating documentation for future reference
 Refinement 149: Cleaning up whitespace and indentations
+Refinement 279: Minor refactoring of function calls

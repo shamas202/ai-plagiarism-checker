@@ -107,3 +107,4 @@ export const useScanStore = create((set, get) => ({
 # Refinement 292: Improving consistency across the module
 # Refinement 303: Standardizing code style and formatting
 # Refinement 363: Improving consistency across the module
+# Refinement 389: Adding descriptive comments for better maintainability

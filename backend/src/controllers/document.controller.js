@@ -193,3 +193,4 @@ module.exports = {
 # Refinement 45: Updating documentation for future reference
 # Refinement 65: Improving consistency across the module
 # Refinement 75: Updating documentation for future reference
+# Refinement 144: Minor refactoring of function calls

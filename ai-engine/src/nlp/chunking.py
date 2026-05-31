@@ -100,3 +100,4 @@ def _simple_chunking(text: str, chunk_size: int = 512, overlap: int = 50) -> Lis
 # Refinement 261: Cleaning up whitespace and indentations
 # Refinement 304: Cleaning up whitespace and indentations
 # Refinement 384: Refining variable names for clarity
+# Refinement 426: Adding internal developer notes

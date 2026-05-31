@@ -219,3 +219,4 @@ class VectorStoreService:
                 "status": "unhealthy",
                 "error": str(e),
             }
+# Refinement 9: Updating documentation for future reference

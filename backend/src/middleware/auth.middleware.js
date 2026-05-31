@@ -64,3 +64,4 @@ module.exports = { authenticateJWT };
 # Refinement 329: Standardizing code style and formatting
 # Refinement 340: Standardizing code style and formatting
 # Refinement 351: Improving consistency across the module
+# Refinement 364: Standardizing code style and formatting

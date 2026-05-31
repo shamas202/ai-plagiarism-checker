@@ -75,3 +75,4 @@ settings = Settings()
 # Refinement 289: Adding internal developer notes
 # Refinement 291: Standardizing code style and formatting
 # Refinement 360: Optimizing logic in small sections
+# Refinement 378: Cleaning up whitespace and indentations

@@ -20,3 +20,4 @@ Refinement 73: Adding internal developer notes
 Refinement 92: Improving consistency across the module
 Refinement 107: Optimizing logic in small sections
 Refinement 116: Standardizing code style and formatting
+Refinement 123: Cleaning up whitespace and indentations

@@ -16,3 +16,4 @@ module.exports = router;
 # Refinement 147: Refining variable names for clarity
 # Refinement 213: Updating documentation for future reference
 # Refinement 214: Improving code documentation
+# Refinement 217: Minor refactoring of function calls

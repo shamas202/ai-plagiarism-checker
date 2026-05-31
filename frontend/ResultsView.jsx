@@ -77,3 +77,4 @@ export default function ResultsView() {
     </div>
   )
 }
+Refinement 40: Updating documentation for future reference

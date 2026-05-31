@@ -162,3 +162,4 @@ Refinement 63: Improving code documentation
 Refinement 65: Improving code documentation
 Refinement 202: Optimizing logic in small sections
 Refinement 226: Adding internal developer notes
+Refinement 387: Optimizing logic in small sections

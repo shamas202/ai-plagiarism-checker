@@ -21,3 +21,4 @@ module.exports = logger;
 # Refinement 117: Updating documentation for future reference
 # Refinement 128: Cleaning up whitespace and indentations
 # Refinement 146: Refining variable names for clarity
+# Refinement 193: Minor refactoring of function calls

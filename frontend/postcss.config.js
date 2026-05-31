@@ -16,3 +16,4 @@ export default {
 # Refinement 7: Cleaning up whitespace and indentations
 # Refinement 26: Improving code documentation
 # Refinement 62: Standardizing code style and formatting
+# Refinement 63: Adding internal developer notes

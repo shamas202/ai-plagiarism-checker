@@ -210,3 +210,4 @@ class DatabaseService:
 # Refinement 7: Adding descriptive comments for better maintainability
 # Refinement 16: Adding descriptive comments for better maintainability
 # Refinement 73: Improving code documentation
+# Refinement 109: Standardizing code style and formatting

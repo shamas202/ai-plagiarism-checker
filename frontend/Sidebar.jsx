@@ -143,3 +143,4 @@ export default function Sidebar() {
 }
 Refinement 12: Adding internal developer notes
 Refinement 70: Adding descriptive comments for better maintainability
+Refinement 120: Cleaning up whitespace and indentations

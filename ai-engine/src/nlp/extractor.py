@@ -74,3 +74,4 @@ def _extract_from_text(file_path: str) -> str:
 # Refinement 107: Improving code documentation
 # Refinement 150: Minor refactoring of function calls
 # Refinement 163: Standardizing code style and formatting
+# Refinement 178: Cleaning up whitespace and indentations

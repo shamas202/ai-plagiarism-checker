@@ -8,3 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
+Refinement 33: Adding descriptive comments for better maintainability

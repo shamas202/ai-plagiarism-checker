@@ -71,3 +71,4 @@ settings = Settings()
 # Refinement 77: Adding internal developer notes
 # Refinement 168: Improving consistency across the module
 # Refinement 173: Improving consistency across the module
+# Refinement 230: Updating documentation for future reference

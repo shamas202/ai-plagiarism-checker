@@ -19,3 +19,4 @@ __all__ = [
 # Refinement 473: Cleaning up whitespace and indentations
 # Refinement 14: Minor refactoring of function calls
 # Refinement 53: Updating documentation for future reference
+# Refinement 66: Adding internal developer notes

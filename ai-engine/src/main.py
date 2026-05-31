@@ -293,3 +293,4 @@ if __name__ == "__main__":
 # Refinement 385: Updating documentation for future reference
 # Refinement 439: Optimizing logic in small sections
 # Refinement 109: Improving consistency across the module
+# Refinement 143: Optimizing logic in small sections

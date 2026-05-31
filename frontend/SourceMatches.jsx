@@ -35,3 +35,4 @@ export default function SourceMatches({ sources }) {
     </div>
   )
 }
+Refinement 39: Minor refactoring of function calls

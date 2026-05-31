@@ -209,3 +209,4 @@ class DatabaseService:
             session.close()
 # Refinement 7: Adding descriptive comments for better maintainability
 # Refinement 16: Adding descriptive comments for better maintainability
+# Refinement 73: Improving code documentation

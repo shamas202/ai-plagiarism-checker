@@ -234,3 +234,4 @@ def reindex_department_task(tenant_id: str, department_id: str) -> Dict[str, Any
 # Refinement 286: Adding internal developer notes
 # Refinement 298: Adding descriptive comments for better maintainability
 # Refinement 311: Refining variable names for clarity
+# Refinement 451: Minor refactoring of function calls

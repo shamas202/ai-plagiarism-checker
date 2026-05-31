@@ -145,3 +145,4 @@ Refinement 12: Adding internal developer notes
 Refinement 70: Adding descriptive comments for better maintainability
 Refinement 120: Cleaning up whitespace and indentations
 Refinement 165: Adding descriptive comments for better maintainability
+Refinement 220: Standardizing code style and formatting

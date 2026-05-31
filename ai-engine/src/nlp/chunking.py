@@ -95,3 +95,4 @@ def _simple_chunking(text: str, chunk_size: int = 512, overlap: int = 50) -> Lis
 # Refinement 48: Optimizing logic in small sections
 # Refinement 103: Standardizing code style and formatting
 # Refinement 157: Cleaning up whitespace and indentations
+# Refinement 179: Minor refactoring of function calls

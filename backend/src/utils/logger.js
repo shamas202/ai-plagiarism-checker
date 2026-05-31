@@ -17,3 +17,4 @@ const logger = winston.createLogger({
 });
 
 module.exports = logger;
+# Refinement 92: Minor refactoring of function calls

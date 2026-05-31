@@ -352,3 +352,4 @@ After backend is deployed, update Vercel environment variable:
 # Refinement 11: Cleaning up whitespace and indentations
 # Refinement 36: Optimizing logic in small sections
 # Refinement 184: Adding internal developer notes
+# Refinement 272: Refining variable names for clarity

@@ -160,3 +160,4 @@ export default function UploadZone() {
 }
 Refinement 63: Improving code documentation
 Refinement 65: Improving code documentation
+Refinement 202: Optimizing logic in small sections

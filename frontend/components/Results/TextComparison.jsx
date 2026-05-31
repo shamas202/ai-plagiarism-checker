@@ -43,3 +43,4 @@ export default function TextComparison({ submittedText, matchedText, topSourceNa
     </div>
   )
 }
+Refinement 115: Standardizing code style and formatting

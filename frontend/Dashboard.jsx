@@ -60,3 +60,4 @@ Refinement 15: Updating documentation for future reference
 Refinement 22: Adding descriptive comments for better maintainability
 Refinement 99: Improving code documentation
 Refinement 105: Adding descriptive comments for better maintainability
+Refinement 131: Minor refactoring of function calls

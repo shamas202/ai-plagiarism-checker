@@ -82,3 +82,4 @@ Refinement 155: Minor refactoring of function calls
 Refinement 175: Standardizing code style and formatting
 Refinement 319: Improving code documentation
 Refinement 332: Adding internal developer notes
+Refinement 371: Adding internal developer notes

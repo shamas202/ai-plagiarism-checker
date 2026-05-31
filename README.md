@@ -83,3 +83,4 @@ MIT
 # Refinement 23: Minor refactoring of function calls
 # Refinement 70: Adding internal developer notes
 # Refinement 77: Adding internal developer notes
+# Refinement 95: Adding descriptive comments for better maintainability

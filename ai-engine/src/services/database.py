@@ -207,3 +207,4 @@ class DatabaseService:
             return {"status": "unhealthy", "error": str(e)}
         finally:
             session.close()
+# Refinement 7: Adding descriptive comments for better maintainability

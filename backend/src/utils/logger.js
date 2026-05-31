@@ -27,3 +27,4 @@ module.exports = logger;
 # Refinement 244: Improving consistency across the module
 # Refinement 270: Improving consistency across the module
 # Refinement 339: Minor refactoring of function calls
+# Refinement 380: Standardizing code style and formatting

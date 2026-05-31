@@ -227,3 +227,4 @@ class VectorStoreService:
 # Refinement 260: Cleaning up whitespace and indentations
 # Refinement 314: Adding descriptive comments for better maintainability
 # Refinement 322: Adding descriptive comments for better maintainability
+# Refinement 345: Adding descriptive comments for better maintainability

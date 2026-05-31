@@ -82,3 +82,4 @@ def _extract_from_text(file_path: str) -> str:
 # Refinement 414: Improving consistency across the module
 # Refinement 415: Standardizing code style and formatting
 # Refinement 9: Adding internal developer notes
+# Refinement 51: Minor refactoring of function calls

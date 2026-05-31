@@ -141,3 +141,4 @@ export default function Sidebar() {
     </aside>
   )
 }
+Refinement 12: Adding internal developer notes

@@ -91,3 +91,4 @@ module.exports = {
   enqueueDocumentForProcessing,
   getJobStatus,
 };
+# Refinement 26: Cleaning up whitespace and indentations

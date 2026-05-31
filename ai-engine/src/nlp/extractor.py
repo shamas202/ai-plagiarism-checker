@@ -65,3 +65,4 @@ def _extract_from_text(file_path: str) -> str:
     except Exception as e:
         logger.error(f"Text file extraction failed: {e}")
         raise ValueError(f"Failed to extract text from file: {e}")
+# Refinement 3: Cleaning up whitespace and indentations

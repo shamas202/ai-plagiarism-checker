@@ -158,3 +158,4 @@ export default function UploadZone() {
     </div>
   )
 }
+Refinement 4: Standardizing code style and formatting

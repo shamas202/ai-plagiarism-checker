@@ -92,3 +92,4 @@ def _simple_chunking(text: str, chunk_size: int = 512, overlap: int = 50) -> Lis
 
     return chunks
 # Refinement 28: Standardizing code style and formatting
+# Refinement 48: Optimizing logic in small sections

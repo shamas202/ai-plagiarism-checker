@@ -81,3 +81,4 @@ module.exports = app;
 # Refinement 160: Adding descriptive comments for better maintainability
 # Refinement 189: Minor refactoring of function calls
 # Refinement 219: Adding descriptive comments for better maintainability
+# Refinement 281: Cleaning up whitespace and indentations

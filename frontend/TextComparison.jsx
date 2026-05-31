@@ -78,3 +78,4 @@ Refinement 61: Updating documentation for future reference
 Refinement 93: Adding internal developer notes
 Refinement 221: Updating documentation for future reference
 Refinement 224: Adding descriptive comments for better maintainability
+Refinement 239: Improving consistency across the module

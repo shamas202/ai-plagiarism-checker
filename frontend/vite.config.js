@@ -17,3 +17,4 @@ export default defineConfig({
     sourcemap: true,
   },
 })
+# Refinement 6: Minor refactoring of function calls

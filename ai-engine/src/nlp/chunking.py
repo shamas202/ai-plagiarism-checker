@@ -97,3 +97,4 @@ def _simple_chunking(text: str, chunk_size: int = 512, overlap: int = 50) -> Lis
 # Refinement 157: Cleaning up whitespace and indentations
 # Refinement 179: Minor refactoring of function calls
 # Refinement 232: Minor refactoring of function calls
+# Refinement 261: Cleaning up whitespace and indentations

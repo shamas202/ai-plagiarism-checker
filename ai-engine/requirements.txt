@@ -44,3 +44,4 @@ Refinement 262: Optimizing logic in small sections
 Refinement 417: Optimizing logic in small sections
 Refinement 48: Cleaning up whitespace and indentations
 Refinement 94: Standardizing code style and formatting
+Refinement 129: Minor refactoring of function calls

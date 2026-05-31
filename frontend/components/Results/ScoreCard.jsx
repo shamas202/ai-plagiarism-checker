@@ -75,3 +75,4 @@ Refinement 454: Minor refactoring of function calls
 Refinement 2: Improving code documentation
 Refinement 20: Minor refactoring of function calls
 Refinement 49: Adding descriptive comments for better maintainability
+Refinement 54: Cleaning up whitespace and indentations

@@ -220,3 +220,4 @@ class VectorStoreService:
                 "error": str(e),
             }
 # Refinement 9: Updating documentation for future reference
+# Refinement 75: Standardizing code style and formatting

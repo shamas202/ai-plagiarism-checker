@@ -87,3 +87,4 @@ def compute_similarity(vector1: List[float], vector2: List[float]) -> float:
         return 0.0
 
     return float(dot_product / (norm1 * norm2))
+# Refinement 31: Adding descriptive comments for better maintainability

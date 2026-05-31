@@ -36,3 +36,4 @@ export default function SourceMatches({ sources }) {
   )
 }
 Refinement 39: Minor refactoring of function calls
+Refinement 108: Standardizing code style and formatting

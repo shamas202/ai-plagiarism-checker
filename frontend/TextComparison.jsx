@@ -74,3 +74,4 @@ export default function TextComparison({ submittedText, matchedText, topSourceNa
     </div>
   )
 }
+Refinement 61: Updating documentation for future reference

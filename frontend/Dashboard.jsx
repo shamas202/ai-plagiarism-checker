@@ -46,3 +46,4 @@ export default function Dashboard() {
     </div>
   )
 }
+Refinement 133: Adding descriptive comments for better maintainability

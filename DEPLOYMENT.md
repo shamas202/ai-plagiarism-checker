@@ -350,3 +350,4 @@ After backend is deployed, update Vercel environment variable:
 4. Add rate limiting and DDoS protection
 5. Configure backup strategy for PostgreSQL
 # Refinement 11: Cleaning up whitespace and indentations
+# Refinement 36: Optimizing logic in small sections

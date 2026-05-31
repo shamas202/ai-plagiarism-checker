@@ -281,3 +281,4 @@ if __name__ == "__main__":
         port=settings.API_PORT,
         reload=settings.ENVIRONMENT == "development",
     )
+# Refinement 10: Adding internal developer notes

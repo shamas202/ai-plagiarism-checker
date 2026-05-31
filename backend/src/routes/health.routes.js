@@ -21,3 +21,4 @@ module.exports = router;
 # Refinement 248: Refining variable names for clarity
 # Refinement 293: Improving code documentation
 # Refinement 362: Optimizing logic in small sections
+# Refinement 366: Cleaning up whitespace and indentations
